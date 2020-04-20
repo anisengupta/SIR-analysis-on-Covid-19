@@ -59,3 +59,8 @@ for spine in ('top', 'right', 'bottom', 'left'):
 plt.show()
 ```
 ![Image of SIR model](https://scipython.com/static/media/examples/E8/extras/sir.png)
+
+Sources
+- https://scipython.com/book/chapter-8-scipy/additional-examples/the-sir-epidemic-model/
+- M. J. Keeling and P. Rohani, Modeling Infectious Diseases in Humans and Animals, Princeton (2007).
+- R. M. Anderson and R. M. May, Infectious Diseases of Humans: Dynamics and Control, OUP (1992).
